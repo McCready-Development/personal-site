@@ -1,2 +1,4 @@
 # personal-site
-My Personal Site
+My own personal site
+
+Using HTML5, SASS and Javascript
